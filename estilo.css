@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: #000080;
+}
+
+#título{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000080;
+    
+}
+
+#subtitulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000080;
+    font-weight: bold;
+       
+}
+
+.logodiv{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    margin-left: 45%;
+}
+.logo{
+    width: 100%;
+    margin: 0;
+
+}
+
+fieldset{
+    border: 0;
+}
+
+body{
+    background-color: ;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    justify-content: center; 
+}
+
+
+form{
+    background-color: #EEDD82;
+    width: 70%;
+    padding: 20px;
+}
+.texto{
+    align-items: center;
+    margin-bottom: 20px;
+
+text-align: center ;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #B8860B;
+    margin-top: 20px;
+    
+}
+
