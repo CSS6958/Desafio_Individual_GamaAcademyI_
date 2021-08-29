@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap');
+
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+html, body
+{
+    height: 100%;   
+}
+
+body 
+{
+    background-color: #f2eccb;
+    display: grid;
+    font-family: 'Open Sans', serif;
+    font-size: 16px;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+}
+
+section
+{
+    padding: 40px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+h1, #titulo, #subitulo
+{
+    color: #000080;
+}
+
+#subtitulo 
+{
+    font-weight: bold;
+}
+
+.logo 
+{
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.texto 
+{
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.texto h1, .texto p
+{
+    padding: 5px;
+}
+
+fieldset 
+{
+    border: 0;
+}
+
+.formulario
+{
+    display: grid;
+    justify-items: center
+}
+
+form 
+{
+    background-color: #EEDD82;
+    border-radius: 5px;
+    width: 480px;
+    padding: 20px;
+}
+
+input, select
+{
+    font-family: 'Open Sans', serif;
+    font-size: 16px;
+    padding: 2px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+
+}
+
+input:hover, select:hover,
+input:focus, select:focus,
+input:focus-within, select:focus-within
+{
+    border: 1px solid orange;
+    outline: none;
+}
+
+.campo
+{
+    display: grid;
+    grid-template-columns: 220px 220px;
+    padding: 5px;
+}
+
+button[type="submit"]
+{
+    color: #f2eccb;
+    background-color: #000080;
+    border: 0 solid transparent;
+    display: block;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+
+button[type="submit"]:hover
+{
+    background-color: #B8860B;
+}
+
+footer 
+{
+    background-color: #B8860B;
+    color: khaki;
+    margin-top: 20px;
+    padding: 20px;
+    
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    flex-shrink: 0;
+    flex-direction: row;
+    position: relative;
+
+    text-align: center;
+}
+
+footer ul
+{
+    display: flex;
+    justify-content: center;
+}
+
+footer ul li
+{
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+footer ul li a
+{
+    color: #f2eccb
+}
+
+footer ul li a:hover
+{
+    color: #EEDD82
+}
+
+footer ul, footer p
+{
+    padding: 5px;
+}
