@@ -1,4 +1,4 @@
-# Desafio Individual – Formação TechItaú - Gama Academy
+# Desafio Individual – Formação ItaúTech - Gama Academy
 
 # Autor:
 
