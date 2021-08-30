@@ -1,9 +1,10 @@
-# Desafio Individual – Formação Tech – Itaú
+# Desafio Individual – Formação TechItaú - Gama Academy
 
 # Autor:
+
 - Cristiano de Souza Santos
 - Idade: 41 anos;
--Tipo de deficiência: 
+- Tipo de deficiência: 
 - Física - no braço direito na região do cotovelo.
 
 # Descrição
