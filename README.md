@@ -1,9 +1,10 @@
 # Desafio Individual – Formação Tech – Itaú
 
 # Autor:
-Cristiano de Souza Santos
-Idade: 41 anos
-Tipo de deficiência: Física - no braço direito na região do cotovelo.
+- Cristiano de Souza Santos
+- Idade: 41 anos;
+-Tipo de deficiência: 
+- Física - no braço direito na região do cotovelo.
 
 # Descrição
 
@@ -24,13 +25,13 @@ Desenvolver um cadastro pessoal num site pequeno e acessível, com campos do for
 
 # Ferramentas:
 
-Visual Studio no Windows Code, Git Bash.
+Visual Studio Code no Windows, Git Bash.
 
 # Linguagens:
 
-CSS
-HTML
-JavaScript.
+- CSS;
+- HTML;
+- JavaScript.
 
 # Referências:
 
